@@ -1,3 +1,4 @@
 # Todo-List
-Todo app built using html, css, js, and webpack
-<img width="1710" alt="Screenshot 2024-04-26 at 10 20 34 AM" src="https://github.com/RogelioBecerra/Todo-List/assets/98434205/3f785ecc-14d0-4a53-8d90-fb7944ae6554">
+Todo app built using html, css, js, webpack, and local storage to save users list 
+
+<img width="1706" alt="Screenshot 2024-04-26 at 10 24 25 AM" src="https://github.com/RogelioBecerra/Todo-List/assets/98434205/583f5f59-ec16-46dd-a548-f9dfa62e5dc4">
